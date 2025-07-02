@@ -4,7 +4,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def home():
-    return jsonify({"message": "Welcome to the Flask backend!"})
+    return jsonify({"message": "Welcomedddddddddd to the Flask backend!"})
 
 
 if __name__ == '__main__':
